@@ -1,4 +1,4 @@
-# httpservercpplinux
+# httpserver
 
 A minimal multithreaded HTTP server written from scratch in C++ on Linux, using raw POSIX sockets — no external web framework. It includes a small Express-style router supporting path parameters (e.g. `/user/:id`) and `GET`/`POST` route handlers.
 
